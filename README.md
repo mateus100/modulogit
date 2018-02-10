@@ -1,7 +1,8 @@
-@auth Mateus R. Moreira
-Acompanhando as videos aulas do curso PZP no novo módulo Git!
-Módulo onde os alunos aprendem a usar o Git e Github. 
+#@auth Mateus R. Moreira
 
-Date 02/09/2018
+Branch Criada para ter uma versão em testes
+Brincando com Branches 
+---
 :]
+
 
